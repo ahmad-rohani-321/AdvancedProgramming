@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\Advanced Programming Assignments\\Assignment Two\\New folder\\AdvancedProgramming\\Collections\\CollectionsInCSharp\\CollectionsInCSharp.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\Advanced Programming Assignments\\Assignment Two\\New folder\\AdvancedProgramming\\Collections\\CollectionsInCSharp\\CollectionsInCSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Advanced Programming Assignments\\Assignment Two\\New folder\\AdvancedProgramming\\Collections\\CollectionsInCSharp\\CollectionsInCSharp.csproj",
+        "projectName": "CollectionsInCSharp",
+        "projectPath": "E:\\Projects\\Advanced Programming Assignments\\Assignment Two\\New folder\\AdvancedProgramming\\Collections\\CollectionsInCSharp\\CollectionsInCSharp.csproj",
+        "packagesPath": "C:\\Users\\Ahmad Rohani\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Advanced Programming Assignments\\Assignment Two\\New folder\\AdvancedProgramming\\Collections\\CollectionsInCSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ahmad Rohani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
